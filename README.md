@@ -15,7 +15,6 @@ The trial aimed to determine whether US-G navigation could achieve comparable ac
 **Trial Design**
 - **Design:** Single-centre, randomized controlled trial (1:1 allocation)  
 - **Period:** February 2020 – June 2024  
-- **Setting:** [Insert Hospital/Institution Name]  
 - **Participants:** 134 adults undergoing VPS placement (of 153 screened)  
 - **Intervention groups:**  
   - **US-G group (n = 66):** Ultrasound-guided VPS placement  
