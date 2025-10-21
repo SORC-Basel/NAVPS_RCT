@@ -12,10 +12,7 @@ The repository supports the findings presented in the study:
 To compare surgical intervention time, accuracy, and safety between ultrasound-guided (US-G) and stereotactically guided (ST-G) ventriculoperitoneal shunt (VPS) placement in adults.  
 The trial aimed to determine whether US-G navigation could achieve comparable accuracy while reducing operative time relative to ST-G placement.
 
----
-
 **Trial Design**
-
 - **Design:** Single-centre, randomized controlled trial (1:1 allocation)  
 - **Period:** February 2020 – June 2024  
 - **Setting:** [Insert Hospital/Institution Name]  
@@ -25,7 +22,6 @@ The trial aimed to determine whether US-G navigation could achieve comparable ac
   - **ST-G group (n = 68):** Stereotactically guided VPS placement  
 
 **Key Findings**
-
 - Ultrasound-guided VPS placement resulted in significantly shorter surgical intervention times compared to stereotactically guided placement  
   (−11.5 minutes; 95% CI −18.5 to −4.5; *p* = 0.002).  
 - Catheter placement accuracy was comparable between groups.  
